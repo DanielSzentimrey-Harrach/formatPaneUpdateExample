@@ -1,0 +1,14 @@
+{
+    "objects": {
+        "dataPoint": {
+            "properties": {
+                "enum": {
+                    "type": {
+                        "enumeration": []
+                    }
+                }
+            }
+        }
+    },
+    "privileges": []
+}
